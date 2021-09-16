@@ -7,4 +7,10 @@ public class class1 {
 
 
     }
+    @Test
+    public void test2() {
+        System.out.println("git 2");
+
+
+    }
 }
